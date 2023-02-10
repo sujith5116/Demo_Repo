@@ -1,4 +1,6 @@
-
+#I'm changing something on the mainline
+#This should raise conflicts on the merge
+#Let's GOOOO
 
 /**
  * Note: The returned array must be malloced, assume caller calls free().
